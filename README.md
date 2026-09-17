@@ -68,7 +68,7 @@ It includes:
 
 ### Dashboard Screenshot
 
-![Executive Summary](Screenshot%202026-09-16%20234451.png)
+![Executive Summary](executive-summary.png)
 
 ### Key Observations
 
@@ -98,7 +98,7 @@ The page includes:
 
 ### Dashboard Screenshot
 
-![Customer Analysis](Screenshot%202026-09-16%20234523.png)
+![Customer Analysis](customer-analysis.png)
 
 ### Key Analysis
 
@@ -154,7 +154,7 @@ It includes:
 
 ### Dashboard Screenshot
 
-![Product Summary](Screenshot%202026-09-16%20234549.png)
+![Product Summary](product-summary.png)
 
 ### Key Analysis
 
